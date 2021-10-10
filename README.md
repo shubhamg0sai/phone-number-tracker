@@ -1,36 +1,34 @@
-# phone-number-tracker 
-# Note 
-Find me....for username and password
+# phone-number-tracker
 
-# Find me on 
+# Note
+# Find me for username and password
+# My Instagram acc
 
-Instagram account
+# Instagram account
 👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
 
+# YouTube video
+[![video](https://img.shields.io/badge/YOUTUBE-VIDEO-red?style=for-the-badge&logo=instagram)](https://youtu.be/8t-2h-1y14U)
+# screenshot
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/phone-number-tracker/Delete/Screenshot_20211009_191804.jpg)
+# Installation
+apt update -y
 
-## screenshot
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/phone-number-tracker/master/Screenshot_20211009_191804.jpg)
+ apt upgrade -y
 
-## Installation
+ apt install git -y
 
-apt update
+ apt install python -y
 
-apt upgrade
+ apt install python2 -y
 
-apt install python
+ pip2 install requests
 
-apt install python2
+ pip2 install mechanize
 
-pip2 install requests
-
-pip2 install mechanize
-
-git clone https://GitHub.com/ShuBhamg0sain/phone-number-tracker
+git clone https://github.com/ShuBhamg0sain/phone-number-tracker
 
 cd phone-number-tracker
-
-## how to used
+ 
+# ussage 
 python2 tracker.py number
-
-
-
