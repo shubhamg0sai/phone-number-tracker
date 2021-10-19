@@ -1,21 +1,3 @@
-
-const-string v25, "🥀❥︎ᴡɪᴅᴇ ᴠɪᴇᴡ"
-
-    new-instance v26, Lvignesh/mods/espmenu/FloatingModMenuService$100000117;
-
-    move-object/from16 v31, v26
-
-    move-object/from16 v26, v31
-
-    move-object/from16 v27, v31
-
-    move-object/from16 v28, v2
-
-    invoke-direct/range {v27 .. v28}, Lvignesh/mods/espmenu/FloatingModMenuService$100000117;-><init>(Lvignesh/mods/espmenu/FloatingModMenuService;)V
-
-    invoke-direct/range {v24 .. v26}, Lvignesh/mods/espmenu/FloatingModMenuService;->AddToggle7(Ljava/lang/String;Landroid/widget/CompoundButton$OnCheckedChangeListener;)V
-
-
 # phone-number-tracker
 
 # Note
