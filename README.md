@@ -6,7 +6,7 @@
 # YouTube video
 [![video](https://img.shields.io/badge/YOUTUBE-VIDEO-red?style=for-the-badge&logo=instagram)](https://youtu.be/8t-2h-1y14U)
 # screenshot
-![ ](https://raw.githubusercontent.com/shubhamg0sai/phone-number-tracker/Delete/Screenshot_20211009_191804.jpg)
+![ ](https://raw.githubusercontent.com/shubhamg0sai/phone-number-tracker/Delete/IMG_20220102_123531.jpg)
 # Installation
 apt update -y
 
