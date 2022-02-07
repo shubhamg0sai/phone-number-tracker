@@ -27,4 +27,4 @@ git clone https://github.com/shubhamg0sai/phone-number-tracker
 cd phone-number-tracker
  
 # ussage 
-python2 run.py
+python run.py
