@@ -13,7 +13,7 @@
 # screenshot
 ![ ](https://raw.githubusercontent.com/shubhamg0sai/phone-number-tracker/Delete/screenshot/Screenshot_20220207_201629.jpg)
 # Google pay
-![ ](https://raw.githubusercontent.com/shubhamg0sai/phone-number-tracker/Delete/screenshot/Screenshot_20220207_201629.jpg
+![ ](https://raw.githubusercontent.com/shubhamg0sai/phone-number-tracker/Delete/Screenshot_2023_0106_130839.jpg)
 
  
 # Installation
