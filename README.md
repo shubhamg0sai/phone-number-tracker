@@ -15,6 +15,9 @@
 
 # Google pay
 UPI: sgosain18122001@okaxis
+
+# PhonePe
+UPI: shubhamg0sai@ybl
  
 # Installation
 apt update -y
