@@ -1,4 +1,3 @@
-# CYBER NAME BLACK-KILLER
 #GITHUB: https://github.com/shubhamg0sai
 #instagram: https://instagram.com/shubhamg0sai
 import marshal
