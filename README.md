@@ -5,7 +5,7 @@
 👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
 
 # YouTube video
-[![video](https://img.shields.io/badge/YOUTUBE-VIDEO-red?style=for-the-badge&logo=instagram)]([https://youtu.be/xeZz0oDPB7M](https://youtube.com/@shubhamg0sai?si=k3pkciN6hI2aosGr))
+[![video](https://img.shields.io/badge/YOUTUBE-VIDEO-red?style=for-the-badge&logo=instagram)](https://youtube.com/@shubhamg0sai?si=k3pkciN6hI2aosGr)
 # screenshot
 ![](https://raw.githubusercontent.com/shubhamg0sai/phone-number-tracker/Delete/screenshot/Screenshot_20220207_201629.jpg)
 
