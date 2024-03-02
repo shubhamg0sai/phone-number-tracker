@@ -16,17 +16,17 @@ UPI: sgosain18122001@okaxis
 UPI: shubhamg0sai@ybl
  
 # Installation
-apt update -y
+sudo apt update -y
 
- apt upgrade -y
+sudo apt upgrade -y
 
- apt install git -y
+sudo apt install git -y
 
- apt install python -y
+sudo apt install python -y
 
- apt install python2 -y
+sudo apt install python2 -y
 
- pip2 install requests
+sudo pip2 install requests
 
  pip2 install mechanize
 
